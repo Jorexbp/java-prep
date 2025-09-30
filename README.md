@@ -4,6 +4,7 @@ Repositorio para preparación de **entrevistas técnicas backend con Java y Spri
 Incluye **apuntes, ejemplos prácticos y demos** de Java avanzado, diseño de software, DevOps básico y buenas prácticas para prepararte para entrevistas técnicas de Java.
 
 ---
+⚠️ **Aviso:** Este repositorio está en proceso de construcción y se encuentra en constante actualización ⚠️
 
 ## 📌 Contenido
 
