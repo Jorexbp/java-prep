@@ -2,23 +2,26 @@
 
 ## 1. Fundamentos de Java
 - [x] Colecciones (List, Set, Map, Queue, Deque, Concurrent)
-- [ ] Añadir ejemplos y diferencias entre Comparable y Comparator
-- [ ] Añadir ejemplos y diferencias entre Iterable e Iterator
-- [ ] Genéricos
-- [ ] Lambdas y Streams
-- [ ] Manejo de excepciones (checked/unchecked, buenas prácticas)
-- [ ] Concurrencia (`synchronized`, `volatile`, `locks`)
-- [ ] ConcurrentHashMap + CopyOnWriteArrayList
-- [ ] CompletableFuture, ExecutorService
-- [ ] Virtual Threads (Project Loom)
-- [ ] Garbage Collector (visión general, tuning básico)
+- [x] Añadir ejemplos y diferencias entre Comparable y Comparator
+- [x] Añadir ejemplos y diferencias entre Iterable e Iterator
+- [x] Genéricos
+- [X] Clases abstractas e interfaces
+- [x] Lambdas y Streams
+- [x] Manejo de excepciones (checked/unchecked, buenas prácticas)
+- [x] Concurrencia (`synchronized`, `volatile`, `locks`)
+- [x] ConcurrentHashMap + CopyOnWriteArrayList
+- [x] CompletableFuture, ExecutorService
+- [x] Virtual Threads
+- [x] Garbage Collector (visión general, tuning básico)
+- [ ] Revisar base completa
 
 ## 2. Principios y Diseño de Software
-- [ ] Principios SOLID
-- [ ] Patrones: Singleton, Factory, Builder, Strategy, Observer, Adapter, Decorator
+- [x] Principios SOLID
+- [x] Patrones: Singleton, Factory, Builder, Strategy, Observer, Adapter, Decorator
 - [ ] Arquitectura en capas
 - [ ] Clean Architecture
 - [ ] DDD (conceptos básicos)
+- [ ] Arquitectura hexagonal
 
 ## 3. Herramientas de build y control de versiones
 - [ ] Maven (dependencias, profiles, plugins)
