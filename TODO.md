@@ -15,18 +15,14 @@
 - [x] Garbage Collector (visión general, tuning básico)
 - [ ] Revisar base completa
 
-## 2. Principios y Diseño de Software
+## 2. Principios y Patrones de Software
 - [x] Principios SOLID
 - [x] Patrones: Singleton, Factory, Builder, Strategy, Observer, Adapter, Decorator
-- [ ] Arquitectura en capas
-- [ ] Clean Architecture
-- [ ] DDD (conceptos básicos)
-- [ ] Arquitectura hexagonal
 
 ## 3. Herramientas de build y control de versiones
-- [ ] Maven (dependencias, profiles, plugins)
-- [ ] Gradle
-- [ ] Git (branching, conflictos, GitFlow, PRs)
+- [x] Maven (dependencias, profiles, plugins)
+- [x] Gradle
+- [x] Git (branching, conflictos, GitFlow, PRs)
 
 ## 4. CI/CD y DevOps
 - [ ] Pipelines: Jenkins, GitHub Actions, GitLab CI
@@ -92,7 +88,13 @@
 - [ ] API Testing (Postman, REST Assured)
 - [ ] Swagger / OpenAPI
 
-## 13. Buenas prácticas
+## 13. Arquitecturas de Software
+- [ ] Arquitectura en capas
+- [ ] Clean Architecture
+- [ ] DDD (conceptos básicos)
+- [ ] Arquitectura hexagonal
+
+## 14. Buenas prácticas
 - [ ] Organización de paquetes y nomenclatura
 - [ ] Manejo de logs y trazabilidad
 - [ ] Clean Code
