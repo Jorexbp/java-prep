@@ -8,6 +8,8 @@ public class ExpLinkedListDeque {
         LinkedList implementa Deque mediante una lista doblemente enlazada.
         Permite operaciones eficientes O(1) en extremos, y funciona como cola o pila.
         A diferencia de ArrayDeque, sí permite nulos (aunque es desaconsejado).
+
+        Literalmente es LinkedList a secas, si ya lo viste en ExpLinkedList no hay nada nuevo
      */
 
 
