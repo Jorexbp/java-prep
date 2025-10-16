@@ -26,7 +26,7 @@
 
 ## 4. CI/CD y DevOps
 - [ ] Pipelines: Jenkins, GitHub Actions, GitLab CI
-- [ ] Docker (imágenes, redes, volúmenes)
+- [x] Docker (imágenes, redes, volúmenes)
 - [ ] Kubernetes (pods, deployments, services, config maps, secrets)
 - [ ] Terraform / Ansible (infra as code – básico)
 
