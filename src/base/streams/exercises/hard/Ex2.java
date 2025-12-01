@@ -1,7 +1,5 @@
 package base.streams.exercises.hard;
 
-import org.example.streams.ex2.Ex3;
-
 import java.time.LocalDate;
 import java.util.Comparator;
 import java.util.List;

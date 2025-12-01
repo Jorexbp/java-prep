@@ -6,6 +6,36 @@ import java.util.stream.Collectors;
 public class Ex2 {
 
     public static void main(String[] args) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         List<Employee> employees = List.of(
                 new Employee("Alice", "TI", "Desarrollador"),
                 new Employee("Bob", "TI", "QA"),
@@ -24,8 +54,20 @@ public class Ex2 {
                 .entrySet()
                 .forEach(System.out::println);
 
+        }
 
-    }
+
+
+
+
+
+
+
+
+
+
+
+
     static class Employee {
         private final String name;
         private final String department;
